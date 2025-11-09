@@ -1,0 +1,55 @@
+# =========================================
+# 💼 TravelGameApp - Java Project .gitignore
+# Author: Dandiboyina Bhaskara Koteswara Rao
+# =========================================
+
+# Ignore compiled class files
+*.class
+
+# Ignore generated log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Ignore Java archives
+*.jar
+*.war
+*.ear
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files and folders
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Mac OS files
+__MACOSX/
+
+# Ignore build and output directories
+/out/
+target/
+bin/
+
+# Ignore backup and cache folders
+cache/
+logs/
+build/
+
+# =========================================
+# ✅ End of .gitignore
+# =========================================
